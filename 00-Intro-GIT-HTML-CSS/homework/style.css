@@ -1,19 +1,33 @@
-h1  {
+
+.fondo{
+    width: auto;
+    height: auto;
+    background-image: url( https://png.pngtree.com/background/20210711/original/pngtree-chinese-food-speciality-barbecue-background-picture-image_1105362.jpg);
+}
+h1{
     color:lightslategray;
     }
+h3{
+    color: lightslategray;
+}
+h4{
+    color: lightslategray;
+}
 img {width: 300px;
     }
-#thirDiv
+.thirDiv
     {
+    justify-content: center;
     width: 400px;
     height: 400px;
-    background-color: moccasin;
+    background-color: rgb(196, 179, 151);
     padding: 50px;
-    border: 3px solid royalblue;
+    border: 3px solid rgb(110, 139, 228);
     }
-#spanId{
-    font-size: 25px; 
-    margin: 50px;
-    
+.spanId{
+    justify-items: center;
+    color: cornsilk;
+    font-size: 25px;
+    margin: 50px;   
 
 }
