@@ -1,0 +1,11 @@
+
+;
+primera practica de jsI con Henry
+practica de jsI con Henry
+variables: un valor que esta en cambio.
+String valor que tiene que estar dentro de comillas y puede almacenar numeros, caracteres y letras.
+Funciones indicaciones que tiene una estructura con parentesis (aqui se le indica que debe realiza){ y aqui que codigo o procesos debe llevar} cerrar corchete y retornar el valor deseado.
+return: el valor que se espera al finalizar la funcion.
+declaracion if: una indicacion que solo tiene 2 posibles respuesta si cumples con un parametro das la respuesta esperada.
+valore booleanos: solo hay 2 respuestas verdadero o falso y lo indica la indicacion que pidas.
+for: es cuando pides algo se tienen que haces varias cosas para obtenerlo y cuando no, se realizan otros procesos.
